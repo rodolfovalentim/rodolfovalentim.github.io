@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rodolfovalentim.github.io/pt-br/posts/dummy/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rodolfovalentim.github.io/pt-br/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-17T14:10:31-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -24,18 +19,17 @@
   </url>
   
   <url>
-    <loc>https://rodolfovalentim.github.io/pt-br/posts/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rodolfovalentim.github.io/pt-br/research/</loc>
+    <lastmod>2019-04-17T14:10:31-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rodolfovalentim.github.io/posts/"
+                href="https://rodolfovalentim.github.io/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://rodolfovalentim.github.io/pt-br/posts/"
+                href="https://rodolfovalentim.github.io/pt-br/research/"
                 />
   </url>
   

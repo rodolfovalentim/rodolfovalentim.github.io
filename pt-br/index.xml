@@ -6,18 +6,19 @@
     <description>Recent content on Portifólio Rodolfo Valentim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 14:10:31 -0300</lastBuildDate>
     
 	<atom:link href="https://rodolfovalentim.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dummy</title>
-      <link>https://rodolfovalentim.github.io/pt-br/posts/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Research</title>
+      <link>https://rodolfovalentim.github.io/pt-br/research/</link>
+      <pubDate>Wed, 17 Apr 2019 14:10:31 -0300</pubDate>
       
-      <guid>https://rodolfovalentim.github.io/pt-br/posts/dummy/</guid>
-      <description>Nada para ver aqui!</description>
+      <guid>https://rodolfovalentim.github.io/pt-br/research/</guid>
+      <description>RDNA Balance: Load Balancing by Isolation of Elephant Flows using Strict Source Routing (2019). Rodolfo V. Valentim, Cristina. K. Dominicini, Diego R. Mafioletti1, Rodolfo S. Villaca, Moises R. N. Ribeiro, Magnos Martinello - LANCOMM Student Workshop (Latin American Student Workshop on Data Communication Networks), 2019, Gramado - RS
+ RDNA Balance: Balanceamento de Carga por Isolamento de Fluxos Elefante em Data Centers com Roteamento na Origem (2019). Rodolfo V. Valentim, Cristina.</description>
     </item>
     
     <item>
@@ -26,7 +27,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rodolfovalentim.github.io/pt-br/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
+      <description>Me siga em @Rodolfo77835271.</description>
     </item>
     
     <item>
@@ -39,7 +40,7 @@
     </item>
     
     <item>
-      <title>Sobre Hugo</title>
+      <title>Sobre Rodolfo</title>
       <link>https://rodolfovalentim.github.io/pt-br/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

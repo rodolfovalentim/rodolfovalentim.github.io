@@ -21,6 +21,16 @@
   <url>
     <loc>https://rodolfovalentim.github.io/research/</loc>
     <lastmod>2019-04-17T14:10:31-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rodolfovalentim.github.io/pt-br/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rodolfovalentim.github.io/research/"
+                />
   </url>
   
   <url>
@@ -33,16 +43,6 @@
     <loc>https://rodolfovalentim.github.io/posts/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://rodolfovalentim.github.io/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rodolfovalentim.github.io/posts/"
-                />
   </url>
   
   <url>
@@ -70,42 +70,6 @@
     <loc>https://rodolfovalentim.github.io/series/theme/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rodolfovalentim.github.io/posts/hugo-coder-wiki/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodolfovalentim.github.io/posts/theme-demo/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodolfovalentim.github.io/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodolfovalentim.github.io/posts/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodolfovalentim.github.io/series/getting-started/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rodolfovalentim.github.io/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodolfovalentim.github.io/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
